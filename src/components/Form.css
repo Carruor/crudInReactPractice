@@ -1,0 +1,36 @@
+.formContainerStyle {
+  width: 1000px;
+  background-color: rgba(234, 231, 220, 0.6);
+  margin-top: 60px;
+  border-radius: 15px;
+  padding: 50px;
+}
+
+.formFieldsStyle {
+  padding: 10px;
+  margin: 30px;
+  border: 0;
+  border-radius: 10px;
+  background-color: rgba(234, 231, 220, 0.6);
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.buttonStyle {
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+  border: 0;
+  background-color: rgba(240, 180, 102, 0.6);
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.h3Style {
+  font-family: "Montserrat Alternates", sans-serif;
+  margin: 30px;
+}
+
+.testCSS {
+  display: flex;
+  justify-content: center;
+}

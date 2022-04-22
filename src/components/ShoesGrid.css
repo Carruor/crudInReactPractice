@@ -1,0 +1,31 @@
+table {
+    background-color: rgba(234, 231, 220, 0.6);
+    font-family: 'Montserrat Alternates';
+    border-collapse: collapse;
+    width: 80%;
+    
+    
+  }
+  
+  td, th {
+    border: 2px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    
+  }
+
+  .tableContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  button {
+    font-family: 'Montserrat Alternates';
+    font-size:x-small;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgba(240, 180, 102, 0.6);
+
+    
+  }
